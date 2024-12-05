@@ -38,12 +38,6 @@ Once the script runs, you can start chatting with the Google Gemini chatbot. Typ
 
 ---
 
-## **Project Structure**
-- `aan`: A PowerShell script that handles the integration with Google Gemini and Python.
-- Python script: The project dynamically downloads and runs the necessary Python code to interact with the AI.
-
----
-
 ## **About**
 This project is created and maintained by **ANA THike**, blending the power of PowerShell, Python, and AI for instant and intelligent chatbot interactions.  
 
