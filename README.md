@@ -29,7 +29,6 @@ Once the script runs, you can start chatting with the Google Gemini chatbot. Typ
 
 ## **Requirements**
 - **PowerShell** (version 5.1 or later)
-- **Python 3.7+** (should already be installed on your system)
 - An active internet connection.
 
 ---
