@@ -49,7 +49,3 @@ Once the script runs, you can start chatting with the Google Gemini chatbot. Typ
 This project is created and maintained by **ANA THike**, blending the power of PowerShell, Python, and AI for instant and intelligent chatbot interactions.  
 
 Feel free to fork, contribute, or report any issues!  
-
----
-
-Let me know if you need any edits or additions!
